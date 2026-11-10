@@ -1,0 +1,11 @@
+# Keep one line-ending format (LF) for every text file, on Windows and Linux alike.
+* text=auto eol=lf
+
+# Binary files: never touch line endings.
+*.ico binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.woff binary
+*.woff2 binary
